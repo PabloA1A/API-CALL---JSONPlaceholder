@@ -1,0 +1,20 @@
+{
+  "name": "api-call---jsonplaceholder",
+  "version": "1.0.0",
+  "description": "Proyect API",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloA1A/API-CALL---JSONPlaceholder.git"
+  },
+  "author": "Pablo Abad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloA1A/API-CALL---JSONPlaceholder/issues"
+  },
+  "homepage": "https://github.com/PabloA1A/API-CALL---JSONPlaceholder#readme"
+}
